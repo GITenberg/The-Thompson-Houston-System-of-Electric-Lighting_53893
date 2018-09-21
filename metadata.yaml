@@ -1,5 +1,8 @@
 _repo: The-Thompson-Houston-System-of-Electric-Lighting_53893
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53893-h/images/cover.jpg
 creator:
   author:
     agent_name: Cory, H. T. (Harry Thomas)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '47601'
     url: http://www.gutenberg.org/2009/agents/47601
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53893#The-Thompson-Houston-System-of-Electric-Lighting
 gutenberg_issued: '2017-01-05'
 gutenberg_type: Text
 identifiers:
